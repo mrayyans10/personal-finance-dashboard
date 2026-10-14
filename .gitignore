@@ -1,0 +1,13 @@
+node_modules
+dist
+dist-ssr
+*.local
+.DS_Store
+npm-debug.log*
+
+# local verification scratch
+.devserver.log
+.devserver.pid
+
+# self-export artifact
+personal-finance-dashboard.zip
